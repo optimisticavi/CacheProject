@@ -3,9 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+/* this is main methopd */
 package com.hpe.cache.mainmethod;
-/*1.3*/
 
 
 import com.hpe.cache.dymaniccache.DynamicCache;
